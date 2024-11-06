@@ -13,7 +13,13 @@
             Console.WriteLine(num1 + " X " + num2 + " = " + task03.Multiply((int)num1, (int)num2));
             task04.Run();
 
-            task05.Run();
+            task05.LearnCasting();
+
+            //Calling Divide method to divide int by decimal Value and return the result as a  double value
+            task06.divide();
+            AccessMember.Run();
+
+
         }
     }
 }
