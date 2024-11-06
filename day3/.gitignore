@@ -1,5 +1,5 @@
 # ignore build output
-\bin\
-\obj\
+\day3\bin\
+\day3\obj\
 
-\.vs\
+\day3\.vs\
