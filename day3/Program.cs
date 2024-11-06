@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             task00.Run();
+            task02.Run();
         }
     }
 }
